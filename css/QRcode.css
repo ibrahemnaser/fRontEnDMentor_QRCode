@@ -33,8 +33,8 @@ body{
   border-radius: 10px;
 }
 
-.card h4{
-  font-size: 21px;
+.card h1{
+  font-size: 22px;
   margin-bottom: 0;
   color: hsl(218, 44%, 22%)
 }
